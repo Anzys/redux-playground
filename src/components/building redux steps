@@ -1,0 +1,9 @@
+1.build ui components 
+a.set up redux store
+b.create etsore file 
+c.setip with react app through index,js 
+3.craete slice and add to the store of #2a s 
+4.on input file change call action creater from ro update state inside the form component 
+5.to read the data from step 3 in real time to bring the state data insside the form container component
+on form submit inside the form component call another acrion create to update anoter state inside the slice 
+6.to display the list of name which is data (from step no . 5 ) in the display component ,pukll the stat variable inside the display component and loop through the array and display it  
